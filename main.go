@@ -18,7 +18,7 @@ type Nested struct {
 
 func main() {
 	user1 := User{
-		Name: "hiro",
+		Name: "jim",
 		Age:  30,
 		Nested: []Nested{
 			{
